@@ -1,0 +1,47 @@
+body {
+    margin-top: 100px;
+    background-color: rgb(105, 185, 237);
+}
+
+header{
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#container {
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    padding: 20pt;
+    border: 3px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+p {
+    text-align:right;
+    margin-right: 45%;
+}
+
+.inputs{
+    margin-left: 10px;
+    
+
+}
+.btn {
+    position: absolute;
+    margin-left: 10px;
+}
+
+div#resultado {
+    position: absolute;
+    text-align: left;
+    padding: 10pt;
+}
